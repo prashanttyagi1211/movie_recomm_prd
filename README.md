@@ -66,12 +66,6 @@ To run this project locally, follow these steps:
 2. **Get Recommendations**: Click the "Recommend" button to see five similar movies.
 3. **Explore Movie Details**: View movie posters, overviews, release dates, ratings, and genres for each recommended movie.
 
-## Deployment
-
-The app is deployed using Streamlit Sharing. You can access it here:
-
-[Movie Recommendation System](https://subhashbisnoi-automobile-price-predictor-app-vrwn5r.streamlit.app)
-
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
